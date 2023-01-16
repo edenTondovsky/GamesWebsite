@@ -1,4 +1,11 @@
-html , body {
+html,
+body {
     height: 100%;
-    background-image: linear-gradient(45deg, pink deeppink);
+    background-image: linear-gradient(45deg, pink, deeppink);
+    text-align: center;
+}
+
+img {
+    margin: 20px;
+    width: 50%;
 }
